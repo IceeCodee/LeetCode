@@ -1,4 +1,4 @@
-able: Products
+Table: Products
 
 +-------------+---------+
 | Column Name | Type    |
